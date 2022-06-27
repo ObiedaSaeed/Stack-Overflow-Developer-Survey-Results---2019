@@ -1,1 +1,7 @@
 # Stack-Overflow-Developer-Survey-Results---2019
+
+A Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants.  In order to keep pace with changing technologies and remain competitive, the organization regularly analyzes data to help identify future skill requirements.  As a Data Analyst, will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. first task is to collect the top programming skills that are most in demand from various sources including: Job postings, Training portals and Surveys.
+
+Once collected enough data, will begin analyzing the data and identify insights and trends that may include the following: What are the top programming languages in demand? What are the top database skills in demand? What are the popular IDEs?
+
+will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.  Once this is completed,  will make that data ready for analysis using data wrangling techniques.  When the data is ready then apply statistical techniques to analyze the data.  Then bring all of the information together by using IBM Cognos Analytics to create the dashboard.  And finally, show off  storytelling skills by sharing findings in a presentation.will be evaluated using quizzes in each module as well as the final project presentation.
